@@ -1,7 +1,16 @@
 # README.md
 
-This repo contains Kernel Exercises for the book *Understanding Linux: The
-Kernel Perspective*.
+Supplementary material for the book *Understanding Linux: The Kernel Perspective*
+
+Leanpub:
+**[*Understanding Linux: The Kernel Perspective*](https://leanpub.com/linuxkernel)**
+
+Amazon Kindle:
+**[*Understanding Linux: The Kernel Perspective*](https://www.amazon.com/dp/B0FBZQJ718)**
+
+Paperback:
+**[*Understanding Linux: The Kernel Perspective*](https://www.amazon.com/dp/B0FCBKCGGC)**
+
 
 ## How to Extract the Kernel Exercises
 
