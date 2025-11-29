@@ -21,7 +21,7 @@ echo "Decryption complete: ${DECRYPTED}"
 
 # Extract
 tar -xzf "${DECRYPTED}"
-echo "Extraction complete: kernel_exercises/"
+echo "Extraction complete."
 
 # Cleanup
 rm -f "${DECRYPTED}"
