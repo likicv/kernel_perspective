@@ -12,7 +12,7 @@ Paperback:
 **[*Understanding Linux: The Kernel Perspective*](https://www.amazon.com/dp/B0FCBKCGGC)**
 
 
-## How to Extract the Kernel Exercises
+## How to extract the exercises
 
 1. Download or clone this repo.
 2. Run the following command:
